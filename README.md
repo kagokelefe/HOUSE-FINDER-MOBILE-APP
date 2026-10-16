@@ -8,7 +8,7 @@ A mobile application designed to help users find houses more easily. The app pro
 - User-friendly mobile interface
 - Easy navigation between screens
 
-To install the app:
+##To install the app:
 1.Download app-debug.apk to your Android phone.
 2.Open the downloaded file.
 3.Allow installation from unknown sources if your phone asks.
